@@ -1,0 +1,9 @@
+ITEM.name = "Laser Pick"
+ITEM.desc = "A laser designed to mine minerals"
+ITEM.model = "models/halo/military/guncase/guncase.mdl"
+ITEM.class = "hl2_m_pickaxe"
+ITEM.width = 2
+ITEM.height = 3
+ITEM.price = 860
+ITEM.category = "Tool"
+ITEM.cant = 1
