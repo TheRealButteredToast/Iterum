@@ -1,0 +1,48 @@
+[Info]
+Type:AdvDupe File
+Creator:"Minor Oro 'Sunomee"
+Date:06/11/21
+Description:"none"
+Entities:3
+Constraints:2
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:07:42 AM
+Head:3144
+HoldAngle:0,-106.749,0
+HoldPos:40.0271,6.82644,23.769
+StartPos:7844.95,-10112.3,13065.3
+[Save]
+Entities:0xeac54b80{Y:2=A:89.9854,-104.972,180;Y:3=V:0.456543,-24.7158,47.8496;Y:4=B:t;}0xf0285040{N:0=T:0xead0ab08;}0xeaf2b138{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xea8cb088{Y:10=T:0xea8cb0b0;Y:11=N:0;Y:12=N:0;}0xe9c94408{Y:1=N:0;Y:5=T:0xeac54b30;Y:2=A:89.9854,-104.972,180;Y:7=Y:6;Y:3=V:0.456543,-24.7158,47.8496;Y:9=Y:8;Y:18=T:0xee3036b8;}0xf0431398{Y:1=N:0;Y:5=T:0xf0285040;Y:2=A:89.9854,-104.972,180;Y:7=Y:6;Y:3=V:0.456543,-24.7158,40.0332;Y:9=Y:8;Y:18=T:0xf01b4bc0;}0xeac611f0{N:0=T:0xeac23d08;}0xee3036b8{Y:13=T:0xea652248;Y:16=T:0xe9c77c48;Y:17=N:0;}H0xeff1eeb8{N:3113=T:0xe9c94408;N:3030=T:0xf02d5d08;N:3144=T:0xf0431398;}0xf02d5d08{Y:1=N:0;Y:5=T:0xeac611f0;Y:2=A:89.9854,-104.972,180;Y:7=Y:6;Y:3=V:0.456543,-24.7158,43.9414;Y:9=Y:8;Y:18=T:0xedfb8188;}0xe9c77c48{Y:15=Y:14;}0xead0ab08{Y:2=A:89.9854,-104.972,180;Y:3=V:0.456543,-24.7158,40.0332;Y:4=B:t;}0xea652248{Y:10=T:0xea652270;Y:11=N:0;Y:12=N:0;}0xea652270{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xead93328{Y:15=Y:14;}0xeac23d08{Y:2=A:89.9854,-104.972,180;Y:3=V:0.456543,-24.7158,43.9414;Y:4=B:t;}0xeac54b30{N:0=T:0xeac54b80;}0xf05e0a28{Y:15=Y:14;}0xea8cb0b0{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xf01b4bc0{Y:13=T:0xea8cb088;Y:16=T:0xead93328;Y:17=N:0;}0xedfb8188{Y:13=T:0xeaf2b110;Y:16=T:0xf05e0a28;Y:17=N:0;}0xeaf2b110{Y:10=T:0xeaf2b138;Y:11=N:0;Y:12=N:0;}
+Constraints:0xedfaa070{T:0xedfb8128;T:0xeabf8b50;}0xeaccd298{Y:21=N:0;Y:22=N:3030;}0xeabf8b50{Y:21=N:0;Y:22=N:3030;}0xedfb8128{Y:21=N:0;Y:22=N:3113;}0xeaa5d040{Y:20=Y:19;Y:23=T:0xedfaa070;Y:24=N:0;}0xf01b4af8{T:0xeaccd298;T:0xeaccd2c0;}H0xeac9d4f0{T:0xedf23fd0;T:0xeaa5d040;}0xeaccd2c0{Y:21=N:0;Y:22=N:3144;}0xedf23fd0{Y:20=Y:19;Y:23=T:0xf01b4af8;Y:24=N:0;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/hunter/blocks/cube2x4x1.mdl"
+9:"Model"
+10:"Color"
+11:"RenderFX"
+12:"RenderMode"
+13:"colour"
+14:"models/props/cs_assault/dollar"
+15:"MaterialOverride"
+16:"material"
+17:"CollisionGroupMod"
+18:"EntityMods"
+19:"Weld"
+20:"Type"
+21:"Bone"
+22:"Index"
+23:"Entity"
+24:"forcelimit"
+Saved:52

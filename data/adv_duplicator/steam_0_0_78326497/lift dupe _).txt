@@ -1,0 +1,61 @@
+[Info]
+Type:AdvDupe File
+Creator:"Zealot Flaesch 'Ruxumee"
+Date:06/16/21
+Description:"1156"
+Entities:8
+Constraints:8
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:05:01 AM
+Head:3216
+HoldAngle:0,-70.4483,0
+HoldPos:142.64,-75.0642,1.53079
+StartPos:9118.24,-9746.41,13065.3
+[Save]
+Entities:0xeffe1858{Y:1=N:0;Y:6=T:0xee38e488;Y:2=A:90,-90.132,180;Y:8=Y:7;Y:4=V:253.306,46.7217,142.64;Y:10=Y:9;Y:15=T:0xef9297d0;}0xee38e488{N:0=T:0xe9bd5598;}0xead82208{Y:2=A:90,20.6518,180;Y:3=A:90,-159.348,0;Y:4=V:-118.122,-351.344,142.64;Y:5=B:t;}0xeab75b08{Y:13=T:0xed71fd10;Y:14=N:0;}0xe9ba17b8{Y:4=V:45.8838,45.2754,60.9619;Y:5=B:t;Y:2=A:3.90756e-05,133.728,360;}0xed74b670{Y:4=V:47.625,39.9346,60.0195;Y:5=B:t;Y:2=A:-4.46236e-05,-46.272,0;}0xe9b19b98{Y:16=N:4;Y:17=N:1;Y:18=B:f;Y:20=Y:19;Y:21=B:t;Y:22=B:f;S:"key"=N:38;Y:23=N:12;}0xe9b392f8{Y:13=T:0xed7a2890;Y:14=N:0;}0xeab7b118{Y:12=Y:25;}0xed7a2890{Y:12=Y:11;}0xe9bd5598{Y:2=A:90,-90.132,180;Y:4=V:253.306,46.7217,142.64;Y:5=B:t;}0xea9488d0{Y:16=N:4;Y:17=N:1;Y:18=B:f;Y:20=Y:19;Y:21=B:t;Y:22=B:f;S:"key"=N:38;Y:23=N:12;}0xef9297d0{Y:14=N:0;Y:13=T:0xeab7b118;Y:24=T:0xea9488d0;}0xe9ba1730{N:0=T:0xe9ba17b8;}0xefee6d20{Y:2=A:90,130.872,180;Y:3=A:90,-49.128,0;Y:4=V:466.812,-412.035,142.64;Y:5=B:t;}0xed76bd08{Y:14=N:0;Y:24=T:0xe9b19b98;Y:13=T:0xe9b19b70;}H0xe9af4ba8{N:3525=T:0xed748ee0;N:3335=T:0xe9ba0448;N:4005=T:0xed79ab08;N:3214=T:0xed874a30;N:3216=T:0xe9b442e8;N:3982=T:0xeffe1858;N:4031=T:0xed7a6668;N:3008=T:0xed765be0;}0xe9b19b70{Y:12=Y:25;}0xea85fe28{Y:2=A:90,-46.272,180;Y:3=A:90,133.728,0;Y:4=V:-53.1855,-52.9932,142.64;Y:5=B:t;}0xe9b16ad0{Y:14=N:0;}0xed715238{Y:2=A:90,-153.228,180;Y:3=A:90,26.7721,0;Y:4=V:525.562,-120.956,142.64;Y:5=B:t;}0xe9b340e0{Y:13=T:0xed891ee8;Y:14=N:0;}0xed71fd10{Y:12=Y:11;}0xed765be0{S:"DT"=T:0xe9b35250;Y:1=N:0;Y:6=T:0xe9ba1730;Y:2=A:3.90756e-05,133.728,0;Y:8=Y:29;Y:4=V:45.8838,45.2754,60.9619;Y:10=Y:30;Y:15=T:0xe9b16ad0;}0xefee6cf8{N:0=T:0xefee6d20;}0xe9af1948{Y:26=N:0;Y:27=B:t;Y:28=S:"";}0xe9b442e8{Y:1=N:0;Y:6=T:0xea85fe00;Y:2=A:90,-46.272,180;Y:8=Y:7;Y:4=V:-53.1855,-52.9932,142.64;Y:10=Y:9;Y:15=T:0xed76bd08;}0xed74b5e8{N:0=T:0xed74b670;}0xee35b540{Y:12=Y:11;}0xeda9f138{N:0=T:0xead82208;}0xed79ab08{Y:1=N:0;Y:6=T:0xe9b58fa8;Y:2=A:90,88.8959,180;Y:8=Y:7;Y:4=V:135.132,-529.108,142.64;Y:10=Y:9;Y:15=T:0xeab75b08;}0xea85fe00{N:0=T:0xea85fe28;}0xed7a6668{S:"DT"=T:0xe9af1948;Y:1=N:0;Y:6=T:0xed74b5e8;Y:2=A:-4.46236e-05,-46.272,0;Y:8=Y:29;Y:4=V:47.625,39.9346,60.0195;Y:10=Y:30;Y:15=T:0xe9bcaca0;}0xe9b58fa8{N:0=T:0xe9b58fd0;}0xed891ee8{Y:12=Y:11;}0xe9b58fd0{Y:2=A:90,88.8959,180;Y:3=A:90,-91.1041,0;Y:4=V:135.132,-529.108,142.64;Y:5=B:t;}0xe9ba0448{Y:1=N:0;Y:6=T:0xefee6cf8;Y:2=A:90,130.872,180;Y:8=Y:7;Y:4=V:466.812,-412.035,142.64;Y:10=Y:9;Y:15=T:0xe9b340e0;}0xe9bd30c8{N:0=T:0xed715238;}0xed764670{Y:13=T:0xee35b540;Y:14=N:0;}0xe9bcaca0{Y:14=N:0;}0xe9b35250{Y:26=N:0;Y:27=B:t;Y:28=S:"";}0xed748ee0{Y:1=N:0;Y:6=T:0xe9bd30c8;Y:2=A:90,-153.228,180;Y:8=Y:7;Y:4=V:525.562,-120.956,142.64;Y:10=Y:9;Y:15=T:0xe9b392f8;}0xed874a30{Y:1=N:0;Y:6=T:0xeda9f138;Y:2=A:90,20.6518,180;Y:8=Y:7;Y:4=V:-118.122,-351.344,142.64;Y:10=Y:9;Y:15=T:0xed764670;}
+Constraints:0xed764638{Y:33=N:0;Y:34=N:3214;}0xed7d7bd8{T:0xed764638;T:0xe9b58f80;}0xed747d50{Y:33=N:0;Y:34=N:3982;}0xed4974c8{Y:32=Y:31;Y:35=T:0xea574f50;Y:37=N:0;}0xedb48da0{Y:33=N:0;Y:34=N:3216;}H0xea6f7bf8{T:0xe9bc90c8;T:0xe9bd12a0;T:0xed4974c8;T:0xe9b35278;T:0xe9b48a20;T:0xe9af09f0;T:0xea965148;T:0xe9b37bb0;}0xeffc20f8{T:0xe9b34080;T:0xea8c0970;}0xea8c0970{Y:33=N:0;Y:34=N:3525;}0xea574f50{T:0xef929770;T:0xedb48da0;}0xef929770{Y:33=N:0;Y:34=N:3982;}0xed757290{T:0xed76bcd0;T:0xed723520;}0xe9b1c440{Y:33=N:0;Y:34=N:4005;}0xea6e1850{Y:33=N:0;Y:34=N:3214;}0xed731558{Y:33=N:0;Y:34=N:3335;}0xe9b39230{Y:33=N:0;Y:34=N:3525;}0xed723520{Y:33=N:0;Y:34=N:3216;}0xe9b41560{Y:33=N:0;Y:34=N:3216;}0xe9bc90c8{Y:32=Y:31;Y:35=T:0xed757290;Y:36=B:t;Y:37=N:0;}0xe9b35278{Y:32=Y:31;Y:35=T:0xe9b420f8;Y:36=B:t;Y:37=N:0;}0xed76bcd0{Y:33=N:0;Y:34=N:3008;}0xe9bd12a0{Y:32=Y:31;Y:35=T:0xedccfa18;Y:37=N:0;}0xe9b48a20{Y:32=Y:31;Y:35=T:0xe9af1970;Y:37=N:0;}0xe9b37bb0{Y:32=Y:31;Y:35=T:0xed6dbce8;Y:37=N:0;}0xe9b16a08{Y:33=N:0;Y:34=N:4031;}0xe9af09f0{Y:32=Y:31;Y:35=T:0xed7d7bd8;Y:37=N:0;}0xe9b34080{Y:33=N:0;Y:34=N:3335;}0xe9b420f8{T:0xe9b16a08;T:0xe9b41560;}0xe9bcac68{Y:33=N:0;Y:34=N:3216;}0xedccfa18{T:0xe9b39230;T:0xed747d50;}0xe9af1970{T:0xe9bcac68;T:0xea6e1850;}0xea965148{Y:32=Y:31;Y:35=T:0xeffc20f8;Y:37=N:0;}0xe9b58f80{Y:33=N:0;Y:34=N:4005;}0xed6dbce8{T:0xe9b1c440;T:0xed731558;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"Angles"
+4:"LocalPos"
+5:"Frozen"
+6:"PhysicsObjects"
+7:"prop_physics"
+8:"Class"
+9:"models/hunter/plates/plate6x8.mdl"
+10:"Model"
+11:"models/props_combine/metal_combinebridge001"
+12:"MaterialOverride"
+13:"material"
+14:"CollisionGroupMod"
+15:"EntityMods"
+16:"DoorLoopSound"
+17:"DoorCloseSound"
+18:"toggle"
+19:"Models/effects/comball_tape"
+20:"DoorMaterial"
+21:"CanDisableMotion"
+22:"reversed"
+23:"DoorOpenSound"
+24:"Fading Door"
+25:"models/props_lab/warp_sheet"
+26:"Status"
+27:"Secure"
+28:"Text"
+29:"keypad"
+30:"models/props_lab/keypad.mdl"
+31:"Weld"
+32:"Type"
+33:"Bone"
+34:"Index"
+35:"Entity"
+36:"nocollide"
+37:"forcelimit"
+Saved:180

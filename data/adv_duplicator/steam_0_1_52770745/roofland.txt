@@ -1,0 +1,70 @@
+[Info]
+Type:AdvDupe File
+Creator:"Trooper James Crowley"
+Date:06/12/21
+Description:"I cum hard"
+Entities:6
+Constraints:8
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:03:42 AM
+Head:3051
+HoldAngle:0,-2.45918,0
+HoldPos:18.084,-0.757234,-48.4732
+StartPos:6456.09,-1535.24,-14502
+[Save]
+Entities:0xeade5f40{Y:12=T:0xee0fed78;Y:13=N:0;}0xee0fed78{Y:11=Y:10;}H0xee1a8220{N:3064=T:0xeac1a7b8;N:3148=T:0xeac529c8;N:3055=T:0xf0115d10;N:3362=T:0xedf96868;N:3172=T:0xf05b0540;N:3051=T:0xed927a98;}0xee0ba570{N:0=T:0xedc7ba98;}0xf0431fa8{Y:2=A:-44.8357,-179.903,269.868;Y:3=V:5.99023,-69.8154,120.457;Y:4=B:t;}0xeb0efee0{Y:2=A:-0.00176752,179.963,0.000335693;Y:3=V:18.085,-0.768677,48.4727;Y:4=B:t;}0xed927b60{N:0=T:0xeb0efee0;}0xf0232cc0{Y:12=T:0xee15cc18;Y:13=N:0;}0xeac529c8{Y:1=N:0;Y:5=T:0xee0ba570;Y:2=A:-44.8357,-179.903,-90.132;Y:7=Y:6;Y:3=V:5.99023,25.6953,120.457;Y:9=Y:8;Y:14=T:0xf0232cc0;}0xed927a98{Y:1=N:0;Y:5=T:0xed927b60;Y:2=A:-0.00176752,179.963,0.000335693;Y:7=Y:6;Y:3=V:18.085,-0.768677,48.4727;Y:9=Y:32;Y:14=T:0xeddf7000;}0xee320de0{N:0=T:0xee320e68;}0xedc44c58{Y:27=B:f;S:"On"=B:t;Y:26=N:2;Y:28=N:256;Y:29=B:f;Y:30=B:t;}0xedaa33b0{Y:19=T:0xedaa33d8;Y:20=N:16;Y:21=N:2;}0xedc7ba98{Y:2=A:-44.8357,-179.903,269.868;Y:3=V:5.99023,25.6953,120.457;Y:4=B:t;}0xedb6db90{N:0=T:0xedb6daf0;}0xee320e68{Y:3=V:7.15527,-71.1738,109.987;Y:4=B:f;Y:2=A:-0.114906,29.6762,0.00184631;}0xedb6daf0{Y:2=A:-44.8357,-179.903,269.868;Y:3=V:5.99023,-165.326,120.457;Y:4=B:t;}0xeac87c40{Y:2=A:-0.393438,-179.987,9.15527e-05;Y:3=V:18.3037,-112.821,16.875;Y:4=B:t;}0xee15cc18{Y:11=Y:10;}0xeb1a0ff0{Y:13=N:0;}0xf05b0540{Y:1=N:0;Y:5=T:0xf05b0608;Y:2=A:-0.393438,-179.987,9.15527e-05;Y:7=Y:6;Y:3=V:18.3037,-112.821,16.875;Y:9=Y:31;Y:14=T:0xeb1a0ff0;}0xeac1a7b8{Y:1=N:0;Y:5=T:0xeb288020;Y:2=A:-44.8357,-179.903,-90.132;Y:7=Y:6;Y:3=V:5.99023,-69.8154,120.457;Y:9=Y:8;Y:14=T:0xeb47b538;}0xeb288020{N:0=T:0xf0431fa8;}0xedaa33d8{S:"r"=N:255;S:"b"=N:0;S:"a"=N:255;S:"g"=N:191;}0xedf9e8d0{Y:22=T:0xedaa33b0;Y:13=N:0;}0xf0115d10{Y:1=N:0;Y:5=T:0xedb6db90;Y:2=A:-44.8357,-179.903,-90.132;Y:7=Y:6;Y:3=V:5.99023,-165.326,120.457;Y:9=Y:8;Y:14=T:0xeade5f40;}0xedf96868{Y:1=N:0;Y:3=V:7.15527,-71.1738,109.987;S:"on"=B:t;Y:5=T:0xee320de0;Y:15=N:37;Y:16=N:255;Y:17=N:255;Y:18=N:255;Y:14=T:0xedf9e8d0;Y:23=N:256;Y:9=Y:24;Y:7=Y:25;Y:2=A:-0.114906,29.6762,0.00184631;Y:26=N:2;S:"DT"=T:0xedc44c58;}0xeb47b538{Y:12=T:0xedef29c8;Y:13=N:0;}0xedef29c8{Y:11=Y:10;}0xf05b0608{N:0=T:0xeac87c40;}0xeddf7000{Y:13=N:0;}
+Constraints:0xef183a68{Y:34=Y:33;Y:37=T:0xef183ac8;Y:38=N:0;}0xee0727c0{Y:34=Y:33;Y:37=T:0xeaf039d8;Y:38=N:0;}0xeaf039d8{T:0xeddf6fc8;T:0xeb130130;}0xed9664b8{T:0xee2e2be8;T:0xeac8d658;}0xedf9e808{T:0xead41b00;T:0xedbfa928;}0xead41ad8{Y:35=N:0;Y:36=N:3051;}0xee5f70f8{T:0xef9a71a8;T:0xeb47b4d8;}0xedc44ce8{Y:34=Y:33;Y:37=T:0xedf9e808;Y:38=N:0;}0xee2e2bc0{Y:39=V:0,0,6.5;Y:40=N:1;Y:34=Y:41;Y:42=N:0;Y:12=Y:43;Y:44=V:-0.83618,-0.791857,1.3667;Y:38=N:0;Y:37=T:0xed9664b8;Y:46=N:4;}0xee0c5f70{T:0xf0232c88;T:0xed932838;}0xeb130130{Y:35=N:0;Y:36=N:3051;}0xef9a71a8{Y:35=N:0;Y:36=N:3064;}0xeb47b4d8{Y:35=N:0;Y:36=N:3055;}0xeac8d630{Y:35=N:0;Y:36=N:3051;}0xed998988{T:0xeb1a0fb8;T:0xeb343aa0;}0xeac8d6f8{Y:35=N:0;Y:36=N:3055;}0xeb343aa0{Y:35=N:0;Y:36=N:3148;}0xeddf6fc8{Y:35=N:0;Y:36=N:3172;}0xeafdafa8{T:0xeac8d630;T:0xeac8d6f8;}0xef183ac8{T:0xef183a90;T:0xead41ad8;}0xeac8d658{Y:35=N:0;Y:45=V:-0.83618,-0.791857,1.3667;Y:36=N:3064;}0xed932838{Y:35=N:0;Y:36=N:3148;}0xead41b00{Y:35=N:0;Y:36=N:3051;}0xedbfa928{Y:35=N:0;Y:36=N:3064;}0xef183a90{Y:35=N:0;Y:36=N:3362;}0xeafdaf80{Y:34=Y:33;Y:37=T:0xeafdafa8;Y:38=N:0;}0xf0232c88{Y:35=N:0;Y:36=N:3064;}0xee23e350{Y:34=Y:33;Y:37=T:0xee5f70f8;Y:38=N:0;}0xee072720{Y:34=Y:33;Y:37=T:0xee0c5f70;Y:38=N:0;}0xed998960{Y:34=Y:33;Y:37=T:0xed998988;Y:38=N:0;}H0xef15ffe8{T:0xed998960;T:0xedc44ce8;T:0xef183a68;T:0xee2e2bc0;T:0xeafdaf80;T:0xee23e350;T:0xee072720;T:0xee0727c0;}0xee2e2be8{Y:35=N:0;Y:45=V:0,0,6.5;Y:36=N:3362;}0xeb1a0fb8{Y:35=N:0;Y:36=N:3051;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/hunter/triangles/1x1x2carved025.mdl"
+9:"Model"
+10:"models/props_canal/metalwall005b"
+11:"MaterialOverride"
+12:"material"
+13:"CollisionGroupMod"
+14:"EntityMods"
+15:"KeyDown"
+16:"lightb"
+17:"lightg"
+18:"lightr"
+19:"Color"
+20:"RenderFX"
+21:"RenderMode"
+22:"colour"
+23:"Size"
+24:"models/maxofs2d/light_tubular.mdl"
+25:"gmod_light"
+26:"Brightness"
+27:"LightWorld"
+28:"LightSize"
+29:"LightModels"
+30:"Toggle"
+31:"models/props_wasteland/controlroom_desk001b.mdl"
+32:"models/props_interiors/vendingmachinesoda01a.mdl"
+33:"Weld"
+34:"Type"
+35:"Bone"
+36:"Index"
+37:"Entity"
+38:"forcelimit"
+39:"LPos1"
+40:"width"
+41:"Rope"
+42:"length"
+43:"cable/rope"
+44:"LPos2"
+45:"LPos"
+46:"addlength"
+Saved:129

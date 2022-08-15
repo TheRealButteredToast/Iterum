@@ -1,0 +1,49 @@
+[Info]
+Type:AdvDupe File
+Creator:"Minor Oro 'Sunomee"
+Date:06/11/21
+Description:"none"
+Entities:6
+Constraints:6
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:07:51 AM
+Head:2969
+HoldAngle:0,-89.027,0
+HoldPos:23.7149,19.6869,-43.0984
+StartPos:7454.01,-10316.8,13065.3
+[Save]
+Entities:0xee5f0cb0{N:0=T:0xee0ac358;}0xee076ec0{N:0=T:0xf0290758;}0xeb428648{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:19.7324,-23.7617,41.9805;Y:4=B:t;}0xea0aed20{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:19.7324,-23.7617,24.083;Y:4=B:t;}0xedb51e28{Y:10=T:0xf08386b8;Y:11=N:0;Y:12=N:0;}0xee576a00{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:19.7324,-23.7617,43.0518;Y:4=B:t;}0xea7df8b0{N:0=T:0xeb428648;}0xeb33c8c0{Y:1=N:0;Y:5=T:0xeac3d548;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:19.7324,-23.7617,24.083;Y:9=Y:8;Y:18=T:0xedf79b00;}0xefe5ca40{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xeab3d6e8{N:0=T:0xed9f76b8;}0xedfc7e30{Y:13=T:0xede793e8;Y:16=T:0xef9a6ba8;Y:17=N:0;}0xea7dbfd8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xed9f76b8{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:19.7324,-23.7617,100.287;Y:4=B:t;}0xeada0868{Y:15=Y:14;}0xedf79b00{Y:13=T:0xf008e4b8;Y:16=T:0xedfa1ba0;Y:17=N:0;}0xef9a6ba8{Y:15=Y:14;}0xeda628c0{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xedfa1ba0{Y:15=Y:14;}H0xee0b1d38{N:3043=T:0xedb1d650;N:3056=T:0xee1726c8;N:3074=T:0xf061c6c8;N:2969=T:0xedda63f0;N:3055=T:0xee605330;N:3052=T:0xeb33c8c0;}0xf008e4b8{Y:10=T:0xeda628c0;Y:11=N:0;Y:12=N:0;}0xee0ac358{Y:2=A:-0.00772037,90.1382,359.988;Y:3=V:20.7866,47.8086,1.60645;Y:4=B:t;}0xeac3d548{N:0=T:0xea0aed20;}0xee1726c8{Y:1=N:0;Y:5=T:0xea7df8b0;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:19.7324,-23.7617,41.9805;Y:9=Y:8;Y:18=T:0xea818880;}0xeabda808{Y:10=T:0xefe5ca40;Y:11=N:0;Y:12=N:0;}0xea87ecf0{Y:15=Y:14;}0xe9d45618{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xee163088{Y:15=Y:14;}0xedda63f0{Y:1=N:0;Y:5=T:0xea783ae0;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:19.7324,-23.7617,43.0518;Y:9=Y:8;Y:18=T:0xeab1f2f8;}0xede793e8{Y:10=T:0xe9d45618;Y:11=N:0;Y:12=N:0;}0xee605330{Y:1=N:0;Y:5=T:0xee5f0cb0;Y:2=A:-0.00772037,90.1382,-0.0115967;Y:7=Y:6;Y:3=V:20.7866,47.8086,1.60645;Y:9=Y:19;Y:18=T:0xedfc7e30;}0xeb404058{Y:10=T:0xeaa290a8;Y:11=N:0;Y:12=N:0;}0xea818880{Y:13=T:0xeb404058;Y:16=T:0xea87ecf0;Y:17=N:0;}0xea783ae0{N:0=T:0xee576a00;}0xedb0a450{Y:13=T:0xedd27730;Y:16=T:0xea80fcc8;Y:17=N:0;}0xeab1f2f8{Y:13=T:0xeabda808;Y:16=T:0xee163088;Y:17=N:0;}0xf08386b8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xea80fcc8{Y:15=Y:14;}0xf0290758{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:19.7324,-23.7617,103.108;Y:4=B:t;}0xeaa290a8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xedd27730{Y:10=T:0xea7dbfd8;Y:11=N:0;Y:12=N:0;}0xedb1d650{Y:1=N:0;Y:5=T:0xeab3d6e8;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:19.7324,-23.7617,100.287;Y:9=Y:8;Y:18=T:0xea804030;}0xea804030{Y:13=T:0xedb51e28;Y:16=T:0xeada0868;Y:17=N:0;}0xf061c6c8{Y:1=N:0;Y:5=T:0xee076ec0;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:19.7324,-23.7617,103.108;Y:9=Y:8;Y:18=T:0xedb0a450;}
+Constraints:0xeaa47ff0{Y:21=Y:20;Y:24=T:0xe9da4580;Y:25=N:0;}0xea112f60{T:0xea099ed0;T:0xf011fec8;}0xed8f89b0{T:0xeaae2480;T:0xf149e3c8;}H0xee1118d0{T:0xeabb2ce8;T:0xeaa47ff0;T:0xee127d48;T:0xee552770;T:0xea0ba2f8;T:0xf035bad0;}0xedcc1658{T:0xf0166080;T:0xf0b47210;}0xeabb2ce8{Y:21=Y:20;Y:24=T:0xedcc1658;Y:25=N:0;}0xeaae2480{Y:22=N:0;Y:23=N:3052;}0xea0ba2f8{Y:21=Y:20;Y:24=T:0xea8148c0;Y:25=N:0;}0xf0b47210{Y:22=N:0;Y:23=N:2969;}0xea8148c0{T:0xf010d0f8;T:0xeff3d388;}0xf035bad0{Y:21=Y:20;Y:24=T:0xea112f60;Y:25=N:0;}0xf149e3c8{Y:22=N:0;Y:23=N:3056;}0xee127d48{Y:21=Y:20;Y:24=T:0xed8f89b0;Y:25=N:0;}0xeff3d388{Y:22=N:0;Y:23=N:3043;}0xf010d0f8{Y:22=N:0;Y:23=N:3074;}0xf0848368{Y:22=N:0;Y:23=N:3055;}0xea0be3d8{Y:22=N:0;Y:23=N:3074;}0xe9da4580{T:0xedf98e68;T:0xee1522b0;}0xee552770{Y:21=Y:20;Y:24=T:0xf01084f0;Y:25=N:0;}0xf01084f0{T:0xea0be3d8;T:0xf0848368;}0xea099ed0{Y:22=N:0;Y:23=N:3056;}0xf0166080{Y:22=N:0;Y:23=N:3055;}0xf011fec8{Y:22=N:0;Y:23=N:3074;}0xedf98e68{Y:22=N:0;Y:23=N:3052;}0xee1522b0{Y:22=N:0;Y:23=N:2969;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/hunter/blocks/cube1x6x1.mdl"
+9:"Model"
+10:"Color"
+11:"RenderFX"
+12:"RenderMode"
+13:"colour"
+14:"phoenix_storms/fender_white"
+15:"MaterialOverride"
+16:"material"
+17:"CollisionGroupMod"
+18:"EntityMods"
+19:"models/hunter/blocks/cube2x4x025.mdl"
+20:"Weld"
+21:"Type"
+22:"Bone"
+23:"Index"
+24:"Entity"
+25:"forcelimit"
+Saved:143

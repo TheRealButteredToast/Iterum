@@ -1,0 +1,49 @@
+[Info]
+Type:AdvDupe File
+Creator:"Zealot Flaesch 'Ruxum"
+Date:06/11/21
+Description:"bruh"
+Entities:6
+Constraints:6
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:07:51 AM
+Head:3055
+HoldAngle:0,-91.3639,0
+HoldPos:44.9491,8.09507,-1.61086
+StartPos:7466.6,-10224.1,13065.3
+[Save]
+Entities:0xeaa715c0{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:7.14893,-116.5,41.9805;Y:4=B:t;}0xeff1f620{Y:15=Y:14;}H0xee5fbb40{N:3043=T:0xea876b30;N:3056=T:0xef962778;N:3074=T:0xea9a5758;N:2969=T:0xeaf0b138;N:3055=T:0xea81f340;N:3052=T:0xeacefc98;}0xee0e2d50{N:0=T:0xeaa0bcf8;}0xef962778{Y:1=N:0;Y:5=T:0xf03c1dc0;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:7.14893,-116.5,41.9805;Y:9=Y:8;Y:18=T:0xea5b24f0;}0xea5aa0c0{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xef9643b0{Y:10=T:0xef9643d8;Y:11=N:0;Y:12=N:0;}0xea6cf498{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:7.14893,-116.5,43.0518;Y:4=B:t;}0xf0b0b580{N:0=T:0xee2e14a8;}0xf00ac098{N:0=T:0xea995ee0;}0xeabc9790{Y:10=T:0xeabc97b8;Y:11=N:0;Y:12=N:0;}0xedffe410{Y:13=T:0xeabc9790;Y:16=T:0xeabc97e0;Y:17=N:0;}0xea60cbe8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xea9a5758{Y:1=N:0;Y:5=T:0xf00ac098;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:7.14893,-116.5,103.108;Y:9=Y:8;Y:18=T:0xef9b3b80;}0xea5b24f0{Y:13=T:0xea60cbc0;Y:16=T:0xedb4e340;Y:17=N:0;}0xea9837b0{Y:15=Y:14;}0xea995ee0{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:7.14893,-116.5,103.108;Y:4=B:t;}0xeacb0608{Y:13=T:0xeaed1bd0;Y:16=T:0xeff1f620;Y:17=N:0;}0xedb4e340{Y:15=Y:14;}0xea5aa098{Y:10=T:0xea5aa0c0;Y:11=N:0;Y:12=N:0;}0xea659398{Y:15=Y:14;}0xeab53848{N:0=T:0xeab53898;}0xeaed1bd0{Y:10=T:0xeaed1bf8;Y:11=N:0;Y:12=N:0;}0xeabc97b8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xf017b938{N:0=T:0xea6cf498;}0xeaf0b138{Y:1=N:0;Y:5=T:0xf017b938;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:7.14893,-116.5,43.0518;Y:9=Y:8;Y:18=T:0xedf307e8;}0xea659370{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xea659348{Y:10=T:0xea659370;Y:11=N:0;Y:12=N:0;}0xead083c8{Y:13=T:0xea659348;Y:16=T:0xea659398;Y:17=N:0;}0xeaa0bcf8{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:7.14893,-116.5,24.083;Y:4=B:t;}0xeacefc98{Y:1=N:0;Y:5=T:0xee0e2d50;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:7.14893,-116.5,24.083;Y:9=Y:8;Y:18=T:0xead083c8;}0xea876b30{Y:1=N:0;Y:5=T:0xf0b0b580;Y:2=A:-0.115877,90.1172,-0.00421143;Y:7=Y:6;Y:3=V:7.14893,-116.5,100.287;Y:9=Y:8;Y:18=T:0xeacb0608;}0xea5aa0e8{Y:15=Y:14;}0xef9643d8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xeabc97e0{Y:15=Y:14;}0xea60cbc0{Y:10=T:0xea60cbe8;Y:11=N:0;Y:12=N:0;}0xedf307e8{Y:13=T:0xef9643b0;Y:16=T:0xea9837b0;Y:17=N:0;}0xef9b3b80{Y:13=T:0xea5aa098;Y:16=T:0xea5aa0e8;Y:17=N:0;}0xea81f340{Y:1=N:0;Y:5=T:0xeab53848;Y:2=A:-0.00772037,90.1382,-0.0115967;Y:7=Y:6;Y:3=V:8.20312,-44.9297,1.60645;Y:9=Y:19;Y:18=T:0xedffe410;}0xeab53898{Y:2=A:-0.00772037,90.1382,359.988;Y:3=V:8.20312,-44.9297,1.60645;Y:4=B:t;}0xee2e14a8{Y:2=A:-0.115877,90.1172,359.996;Y:3=V:7.14893,-116.5,100.287;Y:4=B:t;}0xeaed1bf8{S:"r"=N:0;S:"b"=N:0;S:"a"=N:255;S:"g"=N:0;}0xf03c1dc0{N:0=T:0xeaa715c0;}
+Constraints:0xea983810{T:0xed8d9c18;T:0xedf307c0;}0xed8d9c18{Y:22=N:0;Y:23=N:3052;}0xedad6d28{Y:22=N:0;Y:23=N:3056;}0xee187ee8{Y:21=Y:20;Y:24=T:0xea983810;Y:25=N:0;}0xead08390{Y:22=N:0;Y:23=N:3052;}0xedb9d6d8{T:0xea6a9df0;T:0xea6a9eb8;}0xedffe3d8{Y:22=N:0;Y:23=N:3055;}0xedf307c0{Y:22=N:0;Y:23=N:2969;}0xf00c1a00{T:0xead08390;T:0xeaccfc48;}0xeab4e1d0{Y:22=N:0;Y:23=N:3074;}0xef96dea8{Y:21=Y:20;Y:24=T:0xf00c1a00;Y:25=N:0;}H0xee2e5d50{T:0xea709aa8;T:0xee187ee8;T:0xef96dea8;T:0xeaa795f8;T:0xeada5670;T:0xedbb5dc0;}0xea6a9eb8{Y:22=N:0;Y:23=N:3043;}0xea583a50{Y:22=N:0;Y:23=N:3074;}0xedb4e3a0{T:0xedad6d28;T:0xea583a50;}0xedbb5dc0{Y:21=Y:20;Y:24=T:0xedb4e3a0;Y:25=N:0;}0xeacb05e0{Y:22=N:0;Y:23=N:3055;}0xea6a9df0{Y:22=N:0;Y:23=N:3074;}0xeada5670{Y:21=Y:20;Y:24=T:0xedb9d6d8;Y:25=N:0;}0xeaa795f8{Y:21=Y:20;Y:24=T:0xeff1f680;Y:25=N:0;}0xeaccfc48{Y:22=N:0;Y:23=N:3056;}0xeff1f680{T:0xeab4e1d0;T:0xeacb05e0;}0xea6cf470{T:0xedffe3d8;T:0xead11488;}0xea709aa8{Y:21=Y:20;Y:24=T:0xea6cf470;Y:25=N:0;}0xead11488{Y:22=N:0;Y:23=N:2969;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/hunter/blocks/cube1x6x1.mdl"
+9:"Model"
+10:"Color"
+11:"RenderFX"
+12:"RenderMode"
+13:"colour"
+14:"phoenix_storms/fender_white"
+15:"MaterialOverride"
+16:"material"
+17:"CollisionGroupMod"
+18:"EntityMods"
+19:"models/hunter/blocks/cube2x4x025.mdl"
+20:"Weld"
+21:"Type"
+22:"Bone"
+23:"Index"
+24:"Entity"
+25:"forcelimit"
+Saved:143

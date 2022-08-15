@@ -1,0 +1,51 @@
+[Info]
+Type:AdvDupe File
+Creator:"Trooper Tim Johnson"
+Date:06/14/21
+Description:"none"
+Entities:2
+Constraints:1
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:02:47 AM
+Head:3483
+HoldAngle:0,87.8764,0
+HoldPos:23.7587,2.79156,-24.1192
+StartPos:13967.7,12212.4,4689.03
+[Save]
+Entities:0xea7f9050{Y:14=Y:13;}0xedfc9c10{N:0=T:0xeabfa458;}0xeb3d08a0{S:"Pos"=V:-2.7832,23.7559,26.9648;Y:2=A:0.0095028,-90.0242,0.00167847;Y:3=A:0.0095028,-91.3442,0.00167847;Y:4=V:-2.7832,23.7559,26.9648;Y:5=B:t;Y:6=A:0.0095028,-90.0242,0.00167847;}0xedc0d830{V:13958.6,12230.8,4713.15;A:0.0095028,-91.3442,0.00166321;Y:1;T:0xedfc9c10;T:0xee5a9aa0;}0xeabfa458{S:"Pos"=V:-2.78223,23.7559,24.123;Y:2=A:0.0095028,-90.0242,0.00166321;Y:3=A:0.0095028,-91.3442,0.00166321;Y:4=V:-2.78223,23.7559,24.123;Y:5=B:t;Y:6=A:0.0095028,-90.0242,0.00166321;}H0xe7eeba20{N:3483=T:0xee5a9aa0;N:3494=T:0xf00d8690;}0xedc9c500{S:"r"=N:255;S:"b"=N:255;S:"a"=N:0;S:"g"=N:255;}0xf02e34f8{Y:21=T:0xedc9c4d8;Y:16=N:0;}0xeb43c968{Y:15=T:0xea7f9050;Y:16=N:0;}0xedc9c4d8{Y:18=T:0xedc9c500;Y:19=N:0;Y:20=N:1;}0xee1ffe88{N:0=T:0xeb3d08a0;}0xee5a9aa0{Y:7=T:0xedc0d830;Y:8=N:0;Y:4=V:-2.78223,23.7559,24.123;Y:6=A:0.0095028,-90.0242,0.00166321;S:"Pos"=V:-2.78223,23.7559,24.123;Y:9=T:0xedfc9c10;Y:2=A:0.0095028,-90.0242,0.00166321;Y:3=A:0.0095028,-91.3442,0.00166321;Y:11=Y:10;Y:12=Y:1;Y:17=T:0xeb43c968;}0xee2ad8b0{V:13958.6,12230.8,4716;A:0.0095028,-91.3442,0.00167847;Y:1;T:0xee1ffe88;T:0xf00d8690;}0xf00d8690{Y:7=T:0xee2ad8b0;Y:8=N:0;Y:4=V:-2.7832,23.7559,26.9648;Y:6=A:0.0095028,-90.0242,0.00167847;S:"Pos"=V:-2.7832,23.7559,26.9648;Y:9=T:0xee1ffe88;Y:2=A:0.0095028,-90.0242,0.00167847;Y:3=A:0.0095028,-91.3442,0.00167847;Y:11=Y:10;Y:12=Y:1;Y:17=T:0xf02e34f8;}
+Constraints:0xead19e80{T:0xeb43c930;T:0xeac13538;}0xeac13538{Y:24=N:0;Y:25=N:3494;}H0xedd0c718{T:0xe9e09fa0;}0xe9e09fa0{Y:23=Y:22;Y:26=T:0xead19e80;Y:27=N:0;}0xeb43c930{Y:24=N:0;Y:25=N:3483;}
+[Dict]
+1:"models/hunter/blocks/cube1x3x1.mdl"
+2:"LocalAngle"
+3:"Angles"
+4:"LocalPos"
+5:"Frozen"
+6:"Angle"
+7:"arglist"
+8:"Skin"
+9:"PhysicsObjects"
+10:"prop_physics"
+11:"Class"
+12:"Model"
+13:"phoenix_storms/grey_steel"
+14:"MaterialOverride"
+15:"material"
+16:"CollisionGroupMod"
+17:"EntityMods"
+18:"Color"
+19:"RenderFX"
+20:"RenderMode"
+21:"colour"
+22:"Weld"
+23:"Type"
+24:"Bone"
+25:"Index"
+26:"Entity"
+27:"forcelimit"
+Saved:26

@@ -1,0 +1,62 @@
+[Info]
+Type:AdvDupe File
+Creator:"Trooper Rhode"
+Date:06/12/21
+Description:"Side Doors for Warehouse Base"
+Entities:5
+Constraints:6
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:02:39 AM
+Head:3042
+HoldAngle:0,-179.801,0
+HoldPos:47.8539,10.1372,5.96962
+StartPos:5042.38,-2304.11,-14860
+[Save]
+Entities:0xf00aca68{N:0=T:0xf00acab8;}0xeb275768{Y:25=N:0;Y:26=B:t;Y:27=S:"";}H0xeb3d24e0{N:3042=T:0xf156b288;N:3007=T:0xf0b48e10;N:1184=T:0xee0f83d8;N:1206=T:0xeafae408;N:3044=T:0xedc44280;}0xf01ae040{Y:3=V:-11.3491,51.313,55.8174;Y:4=B:t;Y:2=A:0,0,360;}0xee01dbd8{Y:21=Y:20;}0xee01dc38{Y:11=N:2;Y:12=N:1;Y:13=B:f;Y:15=Y:14;Y:16=B:t;Y:17=B:f;S:"key"=N:38;Y:18=N:10;}0xead57108{Y:21=Y:20;}0xeaa37fb0{Y:10=N:0;Y:19=T:0xee01dc38;Y:22=T:0xee01dbd8;}0xf0383490{N:0=T:0xf03834e0;}0xf03834e0{Y:2=A:89.922,-132.683,317.35;Y:3=V:1405.6,1534.54,47.792;Y:4=B:t;}0xee036218{N:0=T:0xf01ae040;}0xede3d250{Y:21=Y:20;}0xede3d200{Y:10=N:0;Y:19=T:0xee2a0298;Y:22=T:0xede3d250;}0xf0689ba0{Y:21=Y:20;}0xf00acab8{Y:2=A:89.8529,-127.59,322.408;Y:3=V:1405.7,1534.68,95.3809;Y:4=B:t;}0xee2a0298{Y:11=N:2;Y:12=N:1;Y:13=B:f;Y:15=Y:14;Y:16=B:t;Y:17=B:f;S:"key"=N:38;Y:18=N:10;}0xf0b48e10{Y:1=N:0;Y:5=T:0xf00aca68;Y:2=A:89.8529,-127.59,-37.5921;Y:7=Y:6;Y:3=V:1405.7,1534.68,95.3809;Y:9=Y:24;Y:23=T:0xf0b41490;}0xedc44280{Y:1=N:0;Y:5=T:0xf0383490;Y:2=A:89.922,-132.683,-42.6504;Y:7=Y:6;Y:3=V:1405.6,1534.54,47.792;Y:9=Y:8;Y:23=T:0xeaa37fb0;}0xea961e70{N:0=T:0xee00e850;}0xea506de0{Y:10=N:0;}0xf0689c00{Y:11=N:2;Y:12=N:1;Y:13=B:f;Y:15=Y:14;Y:16=B:t;Y:17=B:f;S:"key"=N:38;Y:18=N:10;}0xf0010168{N:0=T:0xf00101b8;}0xee0f83d8{S:"DT"=T:0xeb275768;Y:1=N:0;Y:5=T:0xee036218;Y:2=A:0,0,0;Y:7=Y:28;Y:3=V:-11.3491,51.313,55.8174;Y:9=Y:29;Y:23=T:0xea506de0;}0xf00101b8{Y:2=A:89.8941,-99.0979,260.927;Y:3=V:-5.95996,-10.0474,47.874;Y:4=B:t;}0xeafae408{Y:1=N:0;Y:5=T:0xea961e70;Y:2=A:89.9353,-130.991,-130.986;Y:7=Y:6;Y:3=V:-5.9873,-9.75439,98.6211;Y:9=Y:24;Y:23=T:0xede3d200;}0xee5c7020{Y:10=N:0;Y:19=T:0xf0689c00;Y:22=T:0xf0689ba0;}0xf156b288{Y:1=N:0;Y:5=T:0xf0010168;Y:2=A:89.8941,-99.0979,-99.0735;Y:7=Y:6;Y:3=V:-5.95996,-10.0474,47.874;Y:9=Y:8;Y:23=T:0xee5c7020;}0xf0b41490{Y:10=N:0;Y:19=T:0xead57168;Y:22=T:0xead57108;}0xead57168{Y:11=N:2;Y:12=N:1;Y:13=B:f;Y:15=Y:14;Y:16=B:t;Y:17=B:f;S:"key"=N:38;Y:18=N:10;}0xee00e850{Y:2=A:89.9353,-130.991,229.014;Y:3=V:-5.9873,-9.75439,98.6211;Y:4=B:t;}
+Constraints:0xf01b7fb8{Y:32=N:0;Y:33=N:3044;}0xeaf5ac60{Y:32=N:0;Y:33=N:3044;}0xed9725c8{Y:32=N:0;Y:33=N:3042;}0xee080950{Y:31=Y:30;Y:34=T:0xf04368d8;Y:35=N:0;}0xeffd3b38{Y:32=N:0;Y:33=N:3007;}0xe9edf4b0{Y:31=Y:30;Y:34=T:0xeab26468;Y:35=N:0;}0xeab26468{T:0xea444a38;T:0xedd23968;}0xee305c30{T:0xeffd3b38;T:0xeaf5ac60;}0xea444a38{Y:32=N:0;Y:33=N:1206;}0xee3552f8{Y:31=Y:30;Y:34=T:0xf01ae0a0;Y:35=N:0;}H0xee60b568{T:0xe9edf4b0;T:0xeb2f7bd8;T:0xef172490;T:0xee3552f8;T:0xeaf47388;T:0xee080950;}0xef172490{Y:31=Y:30;Y:34=T:0xee305c30;Y:35=N:0;}0xee2abb58{Y:32=N:0;Y:33=N:3042;}0xeb1cc690{Y:32=N:0;Y:33=N:1184;}0xee5dcab0{Y:32=N:0;Y:33=N:3042;}0xf01ae068{Y:32=N:0;Y:33=N:3007;}0xeb3787f8{T:0xeb1cc690;T:0xee2abb58;}0xeaf47388{Y:31=Y:30;Y:34=T:0xeb3787f8;Y:35=N:0;}0xedd36f08{Y:32=N:0;Y:33=N:1184;}0xeac41f58{T:0xedd36f08;T:0xeaeed8d0;}0xf01ae0a0{T:0xf01ae068;T:0xee5dcab0;}0xedd23968{Y:32=N:0;Y:33=N:3042;}0xf04368d8{T:0xf01b7fb8;T:0xed9725c8;}0xeb2f7bd8{Y:31=Y:30;Y:34=T:0xeac41f58;Y:38=B:t;Y:35=N:0;}0xeaeed8d0{Y:36=V:5042.38,-2304.11,-14860;Y:32=N:0;Y:37=B:t;Y:33=N:0;}
+[Dict]
+1:"Skin"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/hunter/blocks/cube2x2x025.mdl"
+9:"Model"
+10:"CollisionGroupMod"
+11:"DoorLoopSound"
+12:"DoorCloseSound"
+13:"toggle"
+14:"models/shadertest/shader3"
+15:"DoorMaterial"
+16:"CanDisableMotion"
+17:"reversed"
+18:"DoorOpenSound"
+19:"Fading Door"
+20:"models/props_interiors/metalfence007a"
+21:"MaterialOverride"
+22:"material"
+23:"EntityMods"
+24:"models/hunter/blocks/cube075x2x025.mdl"
+25:"Status"
+26:"Secure"
+27:"Text"
+28:"keypad"
+29:"models/props_lab/keypad.mdl"
+30:"Weld"
+31:"Type"
+32:"Bone"
+33:"Index"
+34:"Entity"
+35:"forcelimit"
+36:"LPos"
+37:"World"
+38:"nocollide"
+Saved:129

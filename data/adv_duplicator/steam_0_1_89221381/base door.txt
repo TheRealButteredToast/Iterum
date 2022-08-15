@@ -1,0 +1,61 @@
+[Info]
+Type:AdvDupe File
+Creator:"Rhode"
+Date:06/11/21
+Description:"big doors"
+Entities:8
+Constraints:9
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:09:52 PM
+Head:3015
+HoldAngle:0,133.986,0
+HoldPos:47.7906,67.8895,-23.7536
+StartPos:5222.25,-1306.6,-14860
+[Save]
+Entities:0xedb550c0{Y:13=N:0;Y:25=T:0xee0425f0;Y:28=T:0xeab5e198;}0xf0506270{Y:13=N:0;Y:28=T:0xeaceaae8;Y:25=T:0xeda52ab8;}0xed9910a0{S:"DT"=T:0xeb2d0e98;Y:4=N:0;Y:8=T:0xf01e0de8;Y:7=A:0,-90,0;Y:10=Y:9;Y:5=V:413.034,542.573,47.9541;Y:12=Y:11;Y:14=T:0xf07eb960;}0xee222068{N:0=T:0xeabda170;}0xeb22a228{Y:7=A:89.9069,1.3701,1.1053;Y:5=V:354.244,447.314,47.8877;Y:6=B:t;}0xeffbff28{N:0=T:0xeb22a228;}0xeb253a00{Y:4=N:0;Y:8=T:0xee222068;Y:7=A:89.9999,89.9998,180;Y:10=Y:15;Y:5=V:-96.8062,-3.62341,48.0098;Y:12=Y:16;Y:14=T:0xedb550c0;}0xee3574d0{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}0xeaceaae8{Y:27=Y:26;}0xeab5e198{Y:27=Y:26;}0xf01a9138{Y:13=N:0;Y:28=T:0xeb3872d8;Y:25=T:0xedf3cc28;}0xeabd17d8{Y:7=A:89.9859,90.0014,180;Y:5=V:95.0093,329.473,47.8008;Y:6=B:t;}H0xeabd7c40{N:3127=T:0xed9910a0;N:3066=T:0xf0145f08;N:3045=T:0xeb253a00;N:3072=T:0xea9b8828;N:3015=T:0xeac9f008;N:3102=T:0xee505088;N:3010=T:0xee21a528;N:3067=T:0xf0184158;}0xee0425f0{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}0xef9a5b90{Y:13=N:0;Y:25=T:0xeaca6458;Y:28=T:0xee04ddb0;}0xead294a8{Y:7=A:89.9962,-0.000705907,180;Y:5=V:-23.7559,67.8898,47.7891;Y:6=B:t;}0xeb2d0e98{Y:1=N:0;Y:2=B:t;Y:3=S:"";}0xedeeec50{N:0=T:0xee236d60;}0xeb1c8430{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}0xeb386ac0{Y:13=N:0;Y:25=T:0xee3574d0;Y:28=T:0xedf841d8;}0xf0460d50{Y:27=Y:26;}0xefd2dea0{N:0=T:0xf05fd898;}0xea9b8828{S:"DT"=T:0xe9e4e1c8;Y:4=N:0;Y:8=T:0xedeeec50;Y:7=A:0,0,0;Y:10=Y:9;Y:5=V:-191.217,-62.2065,47.8633;Y:12=Y:11;Y:14=T:0xee2f0d78;}0xf03b4a20{Y:13=N:0;Y:28=T:0xf0460d50;Y:25=T:0xeb1c8430;}0xf0145f08{Y:4=N:0;Y:8=T:0xeddea0e0;Y:7=A:89.9962,-0.000700898,180;Y:10=Y:15;Y:5=V:-23.7559,258.19,47.7891;Y:12=Y:16;Y:14=T:0xef9a5b90;}0xf01e0de8{N:0=T:0xf043c1b8;}0xf05fd898{Y:7=A:89.9859,90.0014,180;Y:5=V:283.412,329.473,47.8008;Y:6=B:t;}0xf0184158{Y:4=N:0;Y:8=T:0xefd2dea0;Y:7=A:89.9859,90.0014,180;Y:10=Y:15;Y:5=V:283.412,329.473,47.8008;Y:12=Y:16;Y:14=T:0xf03b4a20;}0xeaca6458{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}0xee505088{Y:4=N:0;Y:8=T:0xeffbff28;Y:7=A:89.9069,1.3701,1.1053;Y:10=Y:15;Y:5=V:354.244,447.314,47.8877;Y:12=Y:16;Y:14=T:0xf01a9138;}0xeda52ab8{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}0xee008f40{N:0=T:0xeabd17d8;}0xee21a528{Y:4=N:0;Y:8=T:0xee008f40;Y:7=A:89.9859,90.0014,180;Y:10=Y:15;Y:5=V:95.0093,329.473,47.8008;Y:12=Y:16;Y:14=T:0xf0506270;}0xe9e4e1c8{Y:1=N:0;Y:2=B:t;Y:3=S:"";}0xee236d60{Y:5=V:-191.217,-62.2065,47.8633;Y:6=B:t;Y:7=A:0,0,360;}0xeb3872d8{Y:27=Y:26;}0xee04ddb0{Y:27=Y:26;}0xef99eeb0{N:0=T:0xead294a8;}0xf043c1b8{Y:5=V:413.034,542.573,47.9541;Y:6=B:t;Y:7=A:0,-90,360;}0xeac9f008{Y:4=N:0;Y:8=T:0xef99eeb0;Y:7=A:89.9962,-0.000705907,180;Y:10=Y:15;Y:5=V:-23.7559,67.8898,47.7891;Y:12=Y:16;Y:14=T:0xeb386ac0;}0xeddea0e0{N:0=T:0xee2136a0;}0xf07eb960{Y:13=N:0;}0xee2136a0{Y:7=A:89.9962,-0.000700898,180;Y:5=V:-23.7559,258.19,47.7891;Y:6=B:t;}0xedf841d8{Y:27=Y:26;}0xeabda170{Y:7=A:89.9999,89.9998,180;Y:5=V:-96.8062,-3.62341,48.0098;Y:6=B:t;}0xee2f0d78{Y:13=N:0;}0xedf3cc28{Y:17=N:2;Y:18=N:1;Y:19=B:f;Y:21=Y:20;Y:22=B:t;Y:23=B:f;S:"key"=N:38;Y:24=N:10;}
+Constraints:0xeb4043d8{Y:31=N:0;Y:32=N:3067;}0xedf0ee08{Y:30=Y:29;Y:33=T:0xeb171a38;Y:34=N:0;}0xf0618620{T:0xf01fa7d0;T:0xedb02348;}0xf0183fc0{Y:35=V:5222.25,-1306.6,-14860;Y:31=N:0;Y:36=B:t;Y:32=N:0;}H0xf0137208{T:0xedb7b5b0;T:0xf0443978;T:0xedf0ee08;T:0xee1bf4a8;T:0xedddfbc8;T:0xeaaca140;T:0xf0b0bd20;T:0xedf945b0;T:0xf017b6e8;}0xead425d8{Y:31=N:0;Y:32=N:3072;}0xedd99d80{Y:31=N:0;Y:32=N:3015;}0xf00895b8{T:0xee2bc880;T:0xf0183fc0;}0xedb02348{Y:31=N:0;Y:32=N:3015;}0xedf945b0{Y:30=Y:29;Y:33=T:0xf00895b8;Y:37=B:t;Y:34=N:0;}0xee2bc880{Y:31=N:0;Y:32=N:3127;}0xf02595b8{Y:31=N:0;Y:32=N:3102;}0xe9ea6f68{T:0xead425d8;T:0xeaaa8098;}0xeb171a38{T:0xeaf0cb88;T:0xeac80468;}0xf04f4158{T:0xedb411f0;T:0xeb14fa40;}0xeadea170{Y:31=N:0;Y:32=N:3066;}0xedb411f0{Y:31=N:0;Y:32=N:3072;}0xf0b0bd20{Y:30=Y:29;Y:33=T:0xf04f4158;Y:37=B:t;Y:34=N:0;}0xf0503db0{T:0xeadea170;T:0xedd99d80;}0xeabdaa78{Y:31=N:0;Y:32=N:3010;}0xeaf0cb88{Y:31=N:0;Y:32=N:3066;}0xedb7b5b0{Y:30=Y:29;Y:33=T:0xe9ea6f68;Y:34=N:0;}0xedddfbc8{Y:30=Y:29;Y:33=T:0xf01cbbf8;Y:34=N:0;}0xee007140{T:0xeabdc728;T:0xedf0f9e8;}0xeaaca140{Y:30=Y:29;Y:33=T:0xf0618620;Y:34=N:0;}0xeac80468{Y:31=N:0;Y:32=N:3010;}0xedf387a0{T:0xeabdaa78;T:0xeb4043d8;}0xeaaa8098{Y:31=N:0;Y:32=N:3045;}0xedf0f9e8{Y:31=N:0;Y:32=N:3102;}0xee1bf4a8{Y:30=Y:29;Y:33=T:0xedf387a0;Y:34=N:0;}0xf017b6e8{Y:30=Y:29;Y:33=T:0xf0503db0;Y:34=N:0;}0xf05faa28{Y:31=N:0;Y:32=N:3067;}0xeb14fa40{Y:35=V:5222.25,-1306.6,-14860;Y:31=N:0;Y:36=B:t;Y:32=N:0;}0xf01cbbf8{T:0xf05faa28;T:0xf02595b8;}0xf01fa7d0{Y:31=N:0;Y:32=N:3045;}0xf0443978{Y:30=Y:29;Y:33=T:0xee007140;Y:34=N:0;}0xeabdc728{Y:31=N:0;Y:32=N:3127;}
+[Dict]
+1:"Status"
+2:"Secure"
+3:"Text"
+4:"Skin"
+5:"LocalPos"
+6:"Frozen"
+7:"LocalAngle"
+8:"PhysicsObjects"
+9:"keypad"
+10:"Class"
+11:"models/props_lab/keypad.mdl"
+12:"Model"
+13:"CollisionGroupMod"
+14:"EntityMods"
+15:"prop_physics"
+16:"models/hunter/blocks/cube2x4x1.mdl"
+17:"DoorLoopSound"
+18:"DoorCloseSound"
+19:"toggle"
+20:"models/shadertest/shader3"
+21:"DoorMaterial"
+22:"CanDisableMotion"
+23:"reversed"
+24:"DoorOpenSound"
+25:"Fading Door"
+26:"phoenix_storms/OfficeWindow_1-1"
+27:"MaterialOverride"
+28:"material"
+29:"Weld"
+30:"Type"
+31:"Bone"
+32:"Index"
+33:"Entity"
+34:"forcelimit"
+35:"LPos"
+36:"World"
+37:"nocollide"
+Saved:223
