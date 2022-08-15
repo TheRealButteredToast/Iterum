@@ -1,0 +1,7 @@
+"halorp"
+{
+	"base"		"nutscript"
+	"title"		"Halo RP"
+	"author"	"Toast?"
+	"menusystem" "1"
+}
