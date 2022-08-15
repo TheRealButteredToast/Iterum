@@ -1,0 +1,9 @@
+ITEM.name = "Warthog Troop Extended Model 2 White"
+ITEM.spawnsent = "sim_fphys_halo_warthog_Extended_Troop"
+ITEM.desc = "For all your extended white transportation needs."
+ITEM.skin = 1
+ITEM.price = 1540
+ITEM.color = Color(255,255,255,255)
+ITEM.model = "models/valk/halo5/unsc/vehicles/warthog/warthog_extended.mdl"
+ITEM.width = 4
+ITEM.height = 4
