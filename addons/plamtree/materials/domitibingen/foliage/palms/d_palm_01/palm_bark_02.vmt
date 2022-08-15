@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-
-	$basetexture "domitibingen/Foliage/Palms/D_palm_01/palm_bark_02"
-	$bumpmap "domitibingen/Foliage/Palms/D_palm_01/palm_bark_02_normal"
-
-
-	 $nocull "1"
-}

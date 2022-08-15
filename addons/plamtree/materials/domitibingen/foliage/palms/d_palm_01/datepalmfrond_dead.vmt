@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-
-	$basetexture "domitibingen/Foliage/Palms/D_palm_01/DatePalmFrond_Dead"
-	$model "1"
-$alphatest "1"
-$normalmapalphaenvmapmask "1"
-	 $nocull "1"
-}
