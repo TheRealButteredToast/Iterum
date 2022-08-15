@@ -1,0 +1,10 @@
+ITEM.name = "M6G PDW"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_m6g.mdl"
+ITEM.class = "drc_m6g_reach"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 1
+ITEM.price = 1160
+ITEM.height = 1
+ITEM.permit = "admin"

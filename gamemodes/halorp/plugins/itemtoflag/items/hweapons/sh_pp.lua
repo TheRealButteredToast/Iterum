@@ -1,0 +1,10 @@
+ITEM.name = "Type-25 DEP"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/vuthakral/halo/weapons/w_plasmapistol.mdl"
+ITEM.class = "drc_plasma_pistol"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 1
+ITEM.price = 1670
+ITEM.height = 1
+ITEM.permit = "admin"

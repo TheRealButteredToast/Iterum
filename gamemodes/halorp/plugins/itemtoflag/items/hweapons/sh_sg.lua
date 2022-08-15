@@ -1,0 +1,12 @@
+ITEM.name = "M-45E Tactical Shotgun"
+ITEM.desc = "Who wants some?"
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_m45e.mdl"
+ITEM.class = "drc_m45"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.price = 2100
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'M'
+ITEM.errormessage = "I don't know how to operate a Shotgun..."

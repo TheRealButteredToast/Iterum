@@ -1,0 +1,12 @@
+ITEM.name = "Type-2 EW/H"
+ITEM.desc = "Hash Slinging Slasher with some extra Weight"
+ITEM.category = "Halo"
+ITEM.model = "models/vuthakral/halo/weapons/w_hammer.mdl"
+ITEM.class = "drc_gravityhammer"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 3
+ITEM.price = 2200
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'm'
+ITEM.errormessage = "I don't know how to operate a Gravity Hammer..."

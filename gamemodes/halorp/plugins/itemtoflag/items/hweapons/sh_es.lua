@@ -1,0 +1,12 @@
+ITEM.name = "Type-1 Energy Sword"
+ITEM.desc = "Hash Sling slasher"
+ITEM.category = "Halo"
+ITEM.model = "models/eblade_h.mdl"
+ITEM.class = "drc_energysword"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 3
+ITEM.price = 2500
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'm'
+ITEM.errormessage = "I don't know how to operate an Energy Sword..."

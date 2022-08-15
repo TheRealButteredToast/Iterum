@@ -1,0 +1,12 @@
+ITEM.name = "T-52 Mauler"
+ITEM.desc = "Come get some!"
+ITEM.category = "Halo"
+ITEM.model = "models/vuthakral/halo/weapons/w_mauler.mdl"
+ITEM.class = "drc_mauler"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.price = 1980
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'h'
+ITEM.errormessage = "I don't know how to operate a Mauler..."

@@ -1,0 +1,12 @@
+ITEM.name = "M41 MAW/AV Rocket Launcher"
+ITEM.desc = "Now with rocket boosting!"
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_m41.mdl"
+ITEM.class = "drc_spnkr"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.price = 2700
+ITEM.height = 2
+ITEM.permit = "admin"
+ITEM.flag = 'Q'
+ITEM.errormessage = "I don't know how to operate a SPNKR..."

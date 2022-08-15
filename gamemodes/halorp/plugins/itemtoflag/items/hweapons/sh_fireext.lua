@@ -1,0 +1,10 @@
+ITEM.name = "Fire Extinguisher"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/w_fire_extinguisher.mdl"
+ITEM.class = "weapon_extinguisher_infinite"
+ITEM.weaponCategory = "fireext"
+ITEM.width = 2
+ITEM.price = 1660
+ITEM.height = 1
+ITEM.permit = "admin"

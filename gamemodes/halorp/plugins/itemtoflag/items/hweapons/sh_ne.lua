@@ -1,0 +1,12 @@
+ITEM.name = "Type-33 Munitions Launcher"
+ITEM.desc = "A heretic-hit!"
+ITEM.category = "Halo"
+ITEM.model = "models/covenant/needler.mdl"
+ITEM.class = "drc_needler"
+ITEM.weaponCategory = "primary"
+ITEM.width = 1
+ITEM.price = 1480
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'h'
+ITEM.errormessage = "I don't know how to operate a Needler..."

@@ -1,0 +1,12 @@
+ITEM.name = "Type-33 Fuel Rod"
+ITEM.desc = "Now with rocket boosting!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/w_irifle.mdl"
+ITEM.class = "drc_t33b"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.price = 3260
+ITEM.height = 2
+ITEM.permit = "admin"
+ITEM.flag = 'q'
+ITEM.errormessage = "I don't know how to operate a Fuelrod..."

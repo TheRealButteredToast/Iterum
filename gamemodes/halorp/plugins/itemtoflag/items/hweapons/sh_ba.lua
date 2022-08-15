@@ -1,0 +1,12 @@
+ITEM.name = "BR-55 Service Rifle"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_br55.mdl"
+ITEM.class = "drc_br55"
+ITEM.weaponCategory = "primary"
+ITEM.width = 2
+ITEM.price = 1760
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'H'
+ITEM.errormessage = "I don't know how to operate a Battle Rifle..."

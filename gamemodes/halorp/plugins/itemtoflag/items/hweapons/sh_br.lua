@@ -1,0 +1,12 @@
+ITEM.name = "Type-50 Beam Rifle"
+ITEM.desc = "Burns n Stings."
+ITEM.category = "Halo"
+ITEM.model = "models/h3beamrifle.mdl"
+ITEM.class = "drc_t50srs"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.price = 2720
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'l'
+ITEM.errormessage = "I don't know how to operate a Beam Rifle..."

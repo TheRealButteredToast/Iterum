@@ -1,0 +1,12 @@
+ITEM.name = "Type-25 Brute DER"
+ITEM.desc = "Overcharged!"
+ITEM.category = "Halo"
+ITEM.model = "models/vuthakral/halo/weapons/w_plasmarifle_red.mdl"
+ITEM.class = "drc_plasma_rifle_brute"
+ITEM.weaponCategory = "primary"
+ITEM.width = 1
+ITEM.price = 2200
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'h'
+ITEM.errormessage = "I don't know how to operate a Brute Plasma Rifle..."

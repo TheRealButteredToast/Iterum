@@ -1,0 +1,10 @@
+ITEM.name = "Keypad Cracker"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/w_c4.mdl"
+ITEM.class = "keypad_cracker"
+ITEM.weaponCategory = "cracker"
+ITEM.width = 1
+ITEM.price = 1380
+ITEM.height = 1
+ITEM.permit = "admin"

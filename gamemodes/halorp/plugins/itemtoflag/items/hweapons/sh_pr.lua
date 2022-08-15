@@ -1,0 +1,12 @@
+ITEM.name = "Type-25 Energy Rifle"
+ITEM.desc = "A heretic-hit!"
+ITEM.category = "Halo"
+ITEM.model = "models/prifle.mdl"
+ITEM.class = "drc_plasma_rifle"
+ITEM.weaponCategory = "primary"
+ITEM.width = 1
+ITEM.price = 1940
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'h'
+ITEM.errormessage = "I don't know how to operate a Plasma Rifle..."

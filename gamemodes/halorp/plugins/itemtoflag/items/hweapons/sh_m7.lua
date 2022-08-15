@@ -1,0 +1,12 @@
+ITEM.name = "M7 Caseless SMG"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_m7.mdl"
+ITEM.class = "drc_m7"
+ITEM.weaponCategory = "primary"
+ITEM.width = 1
+ITEM.price = 1480
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'H'
+ITEM.errormessage = "I don't know how to operate a Submachine Gun..."

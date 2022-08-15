@@ -1,0 +1,12 @@
+ITEM.name = "Type-51 Energy Rifle"
+ITEM.desc = "Won't know how many hit em'!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/rin/halo/reach/r_plasmarepeater.mdl"
+ITEM.class = "drc_plasma_repeater"
+ITEM.weaponCategory = "primary"
+ITEM.width = 3
+ITEM.price = 2500
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'j'
+ITEM.errormessage = "I don't know how to operate a Plasma Repeater..."

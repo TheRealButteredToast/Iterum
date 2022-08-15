@@ -1,0 +1,12 @@
+ITEM.name = "Taser"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/w_eq_eholster_elite.mdl"
+ITEM.class = "nut_taser"
+ITEM.weaponCategory = "taser"
+ITEM.width = 2
+ITEM.price = 1020
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'B'
+ITEM.errormessage = "Biometric ID Failed..."

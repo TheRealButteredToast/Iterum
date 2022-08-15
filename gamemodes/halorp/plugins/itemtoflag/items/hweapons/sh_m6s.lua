@@ -1,0 +1,10 @@
+ITEM.name = "M6C/SOCOM"
+ITEM.desc = "Silent!"
+ITEM.category = "Halo"
+ITEM.model = "models/vuthakral/halo/weapons/w_m6s.mdl"
+ITEM.class = "drc_m6s"
+ITEM.weaponCategory = "secondary"
+ITEM.width = 1
+ITEM.price = 1320
+ITEM.height = 1
+ITEM.permit = "admin"

@@ -1,0 +1,12 @@
+ITEM.name = "SRS-99C S2AMB"
+ITEM.desc = "Make them count."
+ITEM.category = "Halo"
+ITEM.model = "models/ishi/halo_rebirth/weapons/unsc/w_srs99c2b.mdl"
+ITEM.class = "drc_srs99am"
+ITEM.weaponCategory = "primary"
+ITEM.width = 4
+ITEM.price = 2340
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'L'
+ITEM.errormessage = "I don't know how to operate a Sniper..."

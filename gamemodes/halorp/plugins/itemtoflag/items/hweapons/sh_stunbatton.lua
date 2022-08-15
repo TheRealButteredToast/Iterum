@@ -1,0 +1,12 @@
+ITEM.name = "Stun Batton"
+ITEM.desc = "Neat!"
+ITEM.category = "Halo"
+ITEM.model = "models/weapons/w_stunbaton.mdl"
+ITEM.class = "nut_stunstick"
+ITEM.weaponCategory = "stunbatton"
+ITEM.width = 2
+ITEM.price = 600
+ITEM.height = 1
+ITEM.permit = "admin"
+ITEM.flag = 'B'
+ITEM.errormessage = "Biometric ID Failed..."
