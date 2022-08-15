@@ -1,0 +1,9 @@
+ITEM.name = "MRE"
+ITEM.model = "models/consumables/bag_mre.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = 100
+ITEM.foodDesc = "Stolen? Lost? Looted? Who cares!"
+ITEM.mustCooked = false
+ITEM.price = 2200

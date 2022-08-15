@@ -1,0 +1,9 @@
+ITEM.name = "Chocolate"
+ITEM.model = "models/consumables/bar_chocolate.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = 5
+ITEM.foodDesc = "Rain!"
+ITEM.mustCooked = false
+ITEM.price = 40

@@ -1,0 +1,13 @@
+ITEM.name = "Kasna"
+ITEM.model = "models/consumables/cash_single_beercan.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 1.25
+ITEM.healthmult = 1.25
+ITEM.fallchance = true
+ITEM.crashtime = 1080
+ITEM.restoretime = 1200
+ITEM.factions = {"FACTION_ADMINISTRATOR"}
+ITEM.desc = "A special sangheili brew."
+ITEM.price = 1800

@@ -1,0 +1,9 @@
+ITEM.name = "Soda"
+ITEM.model = "models/props_junk/PopCan01a.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = 5
+ITEM.foodDesc = "Mars' Signature Cola."
+ITEM.mustCooked = false
+ITEM.price = 10

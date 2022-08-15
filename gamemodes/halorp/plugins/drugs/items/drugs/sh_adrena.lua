@@ -1,0 +1,13 @@
+ITEM.name = "Adrenaline Booster"
+ITEM.model = "models/ishi/halo_rebirth/props/human/health_kit.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 1.4
+ITEM.healthmult = 1.2
+ITEM.fallchance = false
+ITEM.crashtime = 600
+ITEM.restoretime = 900
+ITEM.factions = {"FACTION_HUMAN"}
+ITEM.desc = "UNSC Standard Issue Adrenaline Booster."
+ITEM.price = 1600

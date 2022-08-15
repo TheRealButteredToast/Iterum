@@ -1,0 +1,9 @@
+ITEM.name = "Coconut Water"
+ITEM.model = "models/consumables/coconut_water.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = 15
+ITEM.foodDesc = "Local!"
+ITEM.mustCooked = false
+ITEM.price = 160

@@ -1,0 +1,9 @@
+ITEM.name = "Oats"
+ITEM.model = "models/consumables/bag_oat.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = true
+ITEM.hungerAmount = 10
+ITEM.foodDesc = "Yum."
+ITEM.mustCooked = false
+ITEM.price = 80

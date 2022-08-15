@@ -1,0 +1,9 @@
+ITEM.name = "Chips"
+ITEM.model = "models/consumables/bag_chips.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = -5
+ITEM.foodDesc = "Chips!"
+ITEM.mustCooked = false
+ITEM.price = 40

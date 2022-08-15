@@ -1,0 +1,9 @@
+ITEM.name = "Ham"
+ITEM.model = "models/consumables/can_spam.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = true
+ITEM.hungerAmount = 80
+ITEM.foodDesc = "Hambolincon."
+ITEM.mustCooked = true
+ITEM.price = 960

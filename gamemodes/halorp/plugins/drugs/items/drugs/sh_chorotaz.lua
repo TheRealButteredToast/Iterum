@@ -1,0 +1,13 @@
+ITEM.name = "Chorotazine"
+ITEM.model = "models/consumables/soda.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 1.4
+ITEM.healthmult = 1.25
+ITEM.fallchance = false
+ITEM.crashtime = 600
+ITEM.restoretime = 1200
+ITEM.factions = {"FACTION_JACK","FACTION_SANG","FACTION_GRUNT"}
+ITEM.desc = "Light medical drug that will give you that extra kick."
+ITEM.price = 1800

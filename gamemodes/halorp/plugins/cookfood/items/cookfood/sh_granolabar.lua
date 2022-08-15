@@ -1,0 +1,9 @@
+ITEM.name = "Granola Bar"
+ITEM.model = "models/consumables/bar_granola.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = false
+ITEM.hungerAmount = 5
+ITEM.foodDesc = "Grandma's Favorite!"
+ITEM.mustCooked = false
+ITEM.price = 120

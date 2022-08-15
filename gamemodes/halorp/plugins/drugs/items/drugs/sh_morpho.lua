@@ -1,0 +1,13 @@
+ITEM.name = "Morphophetamine"
+ITEM.model = "models/consumables/medicine.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 1.2
+ITEM.healthmult = 2
+ITEM.fallchance = true
+ITEM.crashtime = 600
+ITEM.restoretime = 900
+ITEM.factions = {"FACTION_JACK","FACTION_SANG","FACTION_GRUNT"}
+ITEM.desc = "Medical drug that will quicken your movement."
+ITEM.price = 1600

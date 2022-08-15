@@ -1,0 +1,13 @@
+ITEM.name = "Healing Water"
+ITEM.model = "models/misc_props/smalltech/elevatorfuselink.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 2
+ITEM.healthmult = 2
+ITEM.fallchance = false
+ITEM.crashtime = 360
+ITEM.restoretime = 1200
+ITEM.factions = {"FACTION_HUMAN"}
+ITEM.desc = "Sacred Sangheili concoction capable of a serious boost.."
+ITEM.price = 2400

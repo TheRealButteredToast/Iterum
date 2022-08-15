@@ -1,0 +1,9 @@
+ITEM.name = "Tuna"
+ITEM.model = "models/consumables/can_tuna.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.cookable = true
+ITEM.hungerAmount = 60
+ITEM.foodDesc = "Delicious."
+ITEM.mustCooked = false
+ITEM.price = 720

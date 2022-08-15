@@ -1,0 +1,13 @@
+ITEM.name = "Polyseudomorphine"
+ITEM.model = "models/consumables/painkillers.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 2
+ITEM.healthmult = 2
+ITEM.fallchance = false
+ITEM.crashtime = 0
+ITEM.restoretime = 0
+ITEM.factions = {"FACTION_JACK","FACTION_SANG","FACTION_GRUNT"}
+ITEM.desc = "Extreme medical drug that will boost you to superhuman feats for a short period of time."
+ITEM.price = 2200

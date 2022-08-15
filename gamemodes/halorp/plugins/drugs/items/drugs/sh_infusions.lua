@@ -1,0 +1,13 @@
+ITEM.name = "Infusions"
+ITEM.model = "models/misc_props/smalltech/tng_mod.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.screenmat = "models/props_c17/fisheyelens"
+ITEM.speedmult = 1.5
+ITEM.healthmult = 2
+ITEM.fallchance = true
+ITEM.crashtime = 1200
+ITEM.restoretime = 1500
+ITEM.factions = {"FACTION_HUMAN"}
+ITEM.desc = "Medical drug that will quicken your movement."
+ITEM.price = 2000
